@@ -1,6 +1,6 @@
 name: nlp
 channels:
-    -conda-forge
+    - conda-forge
 dependencies:
     - python=3.6
     - numpy
