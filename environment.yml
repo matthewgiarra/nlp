@@ -1,0 +1,15 @@
+name: nlp
+channels:
+    -conda-forge
+dependencies:
+    - python=3.6
+    - numpy
+    - matplotlib
+    - scikit-learn
+    - ipython
+    - jupyter
+    - ipdb
+    - openpyxl
+    - xlrd
+    - pip
+    
