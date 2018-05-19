@@ -17,5 +17,5 @@ dependencies:
     - openpyxl
     - xlrd
     - pip
-    pip:
+    - pip:
         - pyldavis
